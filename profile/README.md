@@ -5,7 +5,7 @@
 # BitLLM_
 
 [![Website](https://img.shields.io/badge/bitllm.org-000000?style=flat-square&logo=safari&logoColor=white)](https://bitllm.org)
-[![Install](https://img.shields.io/badge/install-000000?style=flat-square&logo=gnubash&logoColor=white)](#start-here)
+[![Install](https://img.shields.io/badge/install-000000?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/bitllm-org/bitllm#install-and-run)
 [![Source](https://img.shields.io/badge/source-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/bitllm-org/bitllm)
 [![llms.txt](https://img.shields.io/badge/llms.txt-000000?style=flat-square&logo=markdown&logoColor=white)](https://bitllm.org/llms.txt)
 [![MIT](https://img.shields.io/badge/license-MIT-000000?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/bitllm-org/bitllm/blob/main/LICENSE)
